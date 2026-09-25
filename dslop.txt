@@ -1,0 +1,57 @@
+2
+CNTT01
+Cong Nghe Thong Tin K1
+5
+SV001
+Nguyen Van
+An
+Nam
+0901234567
+SV002
+Tran Thi
+Bich
+Nu
+0902345678
+SV003
+Le Van
+Cuong
+Nam
+0903456789
+SV004
+Pham Thi
+Duyen
+Nu
+0904567890
+SV005
+Hoang Van
+Em
+Nam
+0905678901
+CNTT02
+Cong Nghe Thong Tin K2
+5
+SV006
+Vo Thi
+Hoa
+Nu
+0906789012
+SV007
+Dang Van
+Hung
+Nam
+0907890123
+SV008
+Bui Thi
+Lan
+Nu
+0908901234
+SV009
+Do Van
+Minh
+Nam
+0909012345
+SV010
+Nguyen Thi
+Ngoc
+Nu
+0910123456

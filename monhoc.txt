@@ -1,0 +1,21 @@
+5
+CSDL
+Co So Du Lieu
+3
+1
+CTDL
+Cau Truc Du Lieu va Giai Thuat
+3
+1
+LTHDT
+Lap Trinh Huong Doi Tuong
+2
+2
+MANG
+Mang May Tinh
+3
+0
+TOAN
+Toan Roi Rac
+3
+0
